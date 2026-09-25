@@ -14,7 +14,7 @@ public class CalculadoraT {
 
     public static void main(String[] args) {
         
-        System.out.println("Bienvenido a mi calculadora");
+       
 
       
         Scanner teclado = new Scanner(System.in);
